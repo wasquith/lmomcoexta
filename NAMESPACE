@@ -7,7 +7,7 @@ importFrom("ellipse", "ellipse")
 importFrom("MASS", "mvrnorm")
 importFrom("scatterplot3d", "scatterplot3d")
 importFrom("lmomco", "pp", "lmrdiscord", "lmomsRCmark", "lcomoms2", "fliplmoms")
-#########################
+##########################
 export(lcoratdiagram.discordance)
 export(lcoratdiagram)
 export(lmomcoexta.cluster3d)
