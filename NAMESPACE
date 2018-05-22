@@ -1,0 +1,15 @@
+importFrom("grDevices", "dev.off", "pdf", "rgb")
+importFrom("graphics", "layout", "lines", "mtext", "plot", "points",
+           "text")
+importFrom("stats", "cor", "cov", "cutree", "dist", "hclust",
+           "weighted.mean")
+importFrom("ellipse", "ellipse")
+importFrom("MASS", "mvrnorm")
+importFrom("scatterplot3d", "scatterplot3d")
+importFrom("lmomco", "pp", "lmrdiscord", "lmomsRCmark", "lcomoms2", "fliplmoms")
+#########################
+export(lcoratdiagram.discordance)
+export(lcoratdiagram)
+export(lmomcoexta.cluster3d)
+export(plotlcoratdiagram)
+export(plotlratdiagram)

@@ -1,0 +1,11 @@
+Package: lmomcoexta
+Title: Extensions to lmomco Package that Diverge from Core L-moment Support
+Version: 0.0.1
+Depends: R (>= 3.0), utils
+Date: 2011-04-03
+Author: William H. Asquith
+Description: Experimental extensions to the lmomco package and development stalled since 2011.
+Maintainer: William H. Asquith <william.asquith@ttu.edu>
+Depends: lmomco, MASS, ellipse, scatterplot3d
+Maintainer: William H. Asquith <william.asquith@ttu.edu>
+License: GPL
